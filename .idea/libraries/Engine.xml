@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Engine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CircusOfPlates/Engine/Engine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

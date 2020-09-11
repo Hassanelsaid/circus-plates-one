@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CircusOfPlates/src/res/Jars/FallingObjects.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CircusOfPlates/src/res/Jars/FallingObjects1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
